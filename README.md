@@ -69,7 +69,6 @@ Each vendor has many products for sell. The `FarMar::Vendor` data, in order in t
 #### Baseline Requirements
 - Create a Market & Vendor class.
 - You should be able to create instances of these classes that know about their associated data file.
-- Create your `far_mar.rb` file which will bring together all classes created in the previous step.
 - Complete the boilerplate necessary for testing. You should be able to `$ rake` from the project root to run your specs. Have at least one spec to verify this setup before submitting your baseline.
 
 ## Primary Requirements
