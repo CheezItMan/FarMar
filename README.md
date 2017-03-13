@@ -14,19 +14,7 @@ This project is based off the [Farmar project](https://www.github.com/CheezItMan
 Create a Ruby class to represent each kind of data in the `support/` directory. Your implementation will have _class methods_ to handle finding, sorting, and collecting the data into _instances_ representing individual rows of data. Each of those _instances_ will have _instance methods_ to provide details about the object.
 
 #### Encapsulation
-To manage our data classes we will use a file named `/far_mar.rb`. It should look something like:
-
-```ruby
-# gems your project needs
-require 'csv'
-
-# our namespace module
-module FarMar; end
-
-# all of our data classes that live in the module
-require 'lib/farmar_market'
-# ...require all needed classes
-```
+To manage our data classes we are using a file named `/far_mar.rb`.
 
 Each _class_ you build will live in the `/lib` directory, and belong to the `FarMar` _module_:
 
