@@ -1,7 +1,7 @@
 # FarMar: The Farmers' Market Finder
 In this assignment we will be assessing your ability to create classes, instance methods, class methods & write tests. We will use __CSV__ files as our _database_.
 
-This project is based off the [Farmar project](https://www.github.com/CheezItMan/farmar) in the AdaGold repository.  Fork & Clone this repository for your work on the project.  
+This project is based off the [Farmar project](https://www.github.com/CheezItMan/farmar).  Fork & Clone this repository for your work on the project.  
 
 ## Learning Goals
 - Reinforce and practice all of the Ruby and programming concepts we've covered in class
